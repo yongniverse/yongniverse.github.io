@@ -11,9 +11,9 @@ module.exports = {
   // See https://giscus.app/
   giscus: {
     repo: "yongniverse/yongniverse.github.io",
-    repoId: "R_kgDOPWZyXw=",
-    category: "Announcements",
-    categoryId: "DIC_kwDOPWZyX84CtqGo",
+    repoId: "R_kgDOPWZyXw",
+    category: "Comments",
+    categoryId: "DIC_kwDOPWZyX84Ctq6b",
     mapping: "pathname",
     strict: "0",
     reactionsEnabled: "1",
